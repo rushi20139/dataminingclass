@@ -68,6 +68,8 @@ if st.button("Predict Fraud"):
         "PolicyType": [PolicyType],
         "VehicleCategory": [VehicleCategory],
         "VehiclePrice": [VehiclePrice],
+        "PolicyNumber": [PolicyNumber],
+        "RepNumber": [RepNumber],
         "Deductible": [Deductible],
         "DriverRating": [DriverRating],
         "Days_Policy_Accident": [Days_Policy_Accident],
